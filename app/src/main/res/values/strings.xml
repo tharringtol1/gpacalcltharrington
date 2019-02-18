@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">gpa calc ltharrington</string>
+    <string name="action_settings">Settings</string>
+    <string name="gradeone">Enter Grade</string>
+    <string name="gradetwo">Enter Grade</string>
+    <string name="gradethree">Enter Grade</string>
+    <string name="gradefour">Enter Grade</string>
+    <string name="gradefive">Enter Grade</string>
+    <string name="avgbutton">Sumbit</string>
+    <string name="result">Results</string>
+    <string name="apptitle">GPA Calculator</string>
+</resources>
